@@ -2,13 +2,13 @@
 
 <!--
 **nafiseh1425/nafiseh1425** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 # 💫 About Me:
 I am **Nafiseh Mirnia**, an AI/ML Researcher @ the Center of Biomedical Research Excellence, with a focus on advancing computer vision and deep learning technologies for text and image-based applications. My work centers on solving complex challenges in classification, prediction, and segmentation, consistently driving improvements in model accuracy and performance. With a passion for innovation and a track record of delivering impactful solutions, I am committed to pushing the boundaries of AI in both research and practical applications.
 
 ## 🌐 Connect with Me:
 - [LinkedIn](https://www.linkedin.com/in/nafi-mirnia/) - Connect with me for professional networking.
-- 
+
 # 💻 Technical Skills:
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
